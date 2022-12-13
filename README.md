@@ -12,3 +12,4 @@ Bamps aims stability and easy to use
 ## Why not linux?
 I may port this app to run on linux later. but i dont have such plan on my sight for near future.
 I know windows hosting is not amazing but it doesn't mean it shouldn't have to exist.
+Also there are beautiful managers already exists for linux like cpanel and aapanel
